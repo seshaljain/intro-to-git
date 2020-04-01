@@ -9,7 +9,7 @@ The Hello World! guide does not require a local Git client. In fact, even making
 
 #### 2. Fork this repository
 
-Click on the Fork button on the top-right of this page
+Click on the Fork button on the top-right of this page. Go through the [Forking Guide](https://guides.github.com/activities/forking/) for more details.
 
 #### 3. Launch Git Bash
 
