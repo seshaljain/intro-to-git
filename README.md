@@ -12,6 +12,7 @@ The Hello World! guide does not require a local Git client. In fact, even making
 Click on the Fork button on the top-right of this page
 
 #### 3. Launch Git Bash
+You can seach for ` Git Bash` in your search bar to find it. Alternatively, you can open your command prompt(cmd) or powershell and enter `git` command to open it.
 
 Navigate to your Desktop
 
