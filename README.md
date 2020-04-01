@@ -20,7 +20,7 @@ $ `cd Desktop` ⏎
 
 #### 4. Clone your fork
 
-Make sure you are in ~/Desktop
+Make sure you are in `~/Desktop` if on linux or `C:\\users\\{user account name}\\Desktop\\` on windows
 
 $ `git clone [URL]` ⏎
 
