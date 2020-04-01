@@ -8,8 +8,9 @@ An introduction to Git, the Version Control Management System
 The Hello World! guide does not require a local Git client. In fact, even making changes to this repo does not require a Git client. However, a local client can be useful, because it allows making changes within the comfort of your IDE.
 
 #### 2. Fork this repository
+Forking a repository means you are making a copy of the repo on your account. You can freely edit the files without affecting the original files. You can compare the changes, or can push the changes made to original repo. 
 
-Click on the Fork button on the top-right of this page
+*Click on the `Fork` button on the top-right of this page.*
 
 #### 3. Launch Git Bash
 You can seach for ` Git Bash` in your search bar to find it. Alternatively, you can open your command prompt(cmd) or powershell and enter `git` command to open it.
