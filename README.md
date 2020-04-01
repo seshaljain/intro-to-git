@@ -1,6 +1,20 @@
 # intro-to-git
 An introduction to Git, the Version Control Management System
 
+## A few things before we start
+
+* **What is Pull Request?**
+
+    Pull Request is asking the owner of the repository to accept your changes. You can do a pull request to merge from a fork or from another branch. 
+
+* **What is fork?**
+
+    Fork is a copy of the repository on your account i.e. all the source code, files, resources are copied in your account. You can edit these files without affecting the original project. Think of it as copying the entire code on some project by someone else on your computer and editing it.
+Now, why fork a repo instead of downloading the source code? 
+Following are the benefits of forking a repo:
+    1. You can compare the changes - the differences between your code and the original source code.
+    2. Pull Request - You can create a pull request and your changes can be merged into the original project.
+ 
 ## How to use this repo
 
 #### 1. Make sure you have completed the [Hello World Guide](https://guides.github.com/activities/hello-world/).
