@@ -13,6 +13,8 @@ Click on the Fork button on the top-right of this page. Go through the [Forking 
 
 #### 3. Launch Git Bash
 
+You can search for Git Bash in the Start search bar and open it.
+
 Navigate to your Desktop
 
 $ `cd Desktop` ⏎ 
